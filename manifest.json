@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v8/muse.apk",
-  "sha256": "b40a1c3bbeefd98f46ef3874a5e4b014b6350d519ddbbeeee1d3d3e71c3401ea",
-  "notes": "Mood-based recommendations (10 vibs, combinable), artist affinity engine, dislike bans artists, muse multi-seed blending, home screen crash fix, tab hotkeys 1/2/3",
-  "publishedAt": "2026-09-13T11:02:40Z"
+  "versionCode": 9,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v9/muse.apk",
+  "sha256": "ddac889feaab5c5fa72408a60e62243023bae5c863d881cf6266d587260d0176",
+  "notes": "Dislike button restored (artist ban + instant skip), mood chips polish",
+  "publishedAt": "2026-09-13T11:35:32Z"
 }
