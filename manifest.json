@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v4/muse.apk",
-  "sha256": "aee86977bd64ecb211460ab311b231f2697abcf7b2a7b7253bfb341399bbdea1",
-  "notes": "Очередь без случайного радио из библиотеки (избранное/история), удаление треков синхронизируется между устройствами",
-  "publishedAt": "2026-09-13T06:45:45Z"
+  "versionCode": 5,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v5/muse.apk",
+  "sha256": "9d61a11a951df1f3abf1e58bcbac56ecdb121930bad04ad9ece147dda50aecd9",
+  "notes": "Пул muse-радио добирается из библиотеки",
+  "publishedAt": "2026-09-13T06:48:54Z"
 }
