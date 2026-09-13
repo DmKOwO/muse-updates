@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v9/muse.apk",
-  "sha256": "ddac889feaab5c5fa72408a60e62243023bae5c863d881cf6266d587260d0176",
-  "notes": "Dislike button restored (artist ban + instant skip), mood chips polish",
-  "publishedAt": "2026-09-13T11:35:32Z"
+  "versionCode": 10,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v10/muse.apk",
+  "sha256": "c33139b23c1d216b19e2bb8b6b2bef1fe41b6a25ca533d6bd12cfc55c72c35c3",
+  "notes": "Recommendation engine v2: dynamic query expansion, 70/20/10 diversity, skip detection with session bans, anti-fatigue cooldowns; swipe gestures on cover; swipe-down to collapse",
+  "publishedAt": "2026-09-13T13:27:33Z"
 }
