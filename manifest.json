@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v5/muse.apk",
-  "sha256": "9d61a11a951df1f3abf1e58bcbac56ecdb121930bad04ad9ece147dda50aecd9",
-  "notes": "Пул muse-радио добирается из библиотеки",
-  "publishedAt": "2026-09-13T06:48:54Z"
+  "versionCode": 6,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v6/muse.apk",
+  "sha256": "4ae3c1566658e7f1fb33b50ce42596217c80a29b38b28ddc7dda6a71264a43a9",
+  "notes": "Fix sync crash (nested transaction), playlist/favorite/history sync, dark themes, palette lerp crash, VK import, cache limit, muse variety, OTA channel",
+  "publishedAt": "2026-09-13T06:54:34Z"
 }
