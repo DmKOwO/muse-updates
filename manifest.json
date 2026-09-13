@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v10/muse.apk",
-  "sha256": "c33139b23c1d216b19e2bb8b6b2bef1fe41b6a25ca533d6bd12cfc55c72c35c3",
-  "notes": "Recommendation engine v2: dynamic query expansion, 70/20/10 diversity, skip detection with session bans, anti-fatigue cooldowns; swipe gestures on cover; swipe-down to collapse",
-  "publishedAt": "2026-09-13T13:27:33Z"
+  "versionCode": 11,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v11/muse.apk",
+  "sha256": "138c10a5732d4536688f82c87e3d58e8d13fc15c25d8a1f653e948af8807d1ce",
+  "notes": "Fix: cover/track desync on auto-radio, duplicate songs in queue (title-level dedupe), auto-skip broken tracks with load watchdog, queue refill at 5 remaining",
+  "publishedAt": "2026-09-13T15:46:59Z"
 }
