@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v6/muse.apk",
-  "sha256": "4ae3c1566658e7f1fb33b50ce42596217c80a29b38b28ddc7dda6a71264a43a9",
-  "notes": "Fix sync crash (nested transaction), playlist/favorite/history sync, dark themes, palette lerp crash, VK import, cache limit, muse variety, OTA channel",
-  "publishedAt": "2026-09-13T06:54:34Z"
+  "versionCode": 7,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v7/muse.apk",
+  "sha256": "e04b85147ec8da66f60cdcc157a79aa12f33ce7d4201d1d89ada78ced012458c",
+  "notes": "Favorites sync fix (import saves likes), uncapped favorites list, wipe-all syncs to cloud, tab hotkeys 1/2/3",
+  "publishedAt": "2026-09-13T10:00:55Z"
 }
