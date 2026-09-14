@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v15/muse.apk",
-  "sha256": "c633e3bc503b497414445bd9e102852e30d71457b00745b61086edf00499fdef",
-  "notes": "Fix Supabase JWT expired auto-refresh; Taste sync across devices; Startup autoplay setting; Silent radio mix start",
-  "publishedAt": "2026-09-14T06:22:52Z"
+  "versionCode": 16,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v16/muse.apk",
+  "sha256": "2c35ed7b990e4a4b4ec371d7b4ad7c1910fdd63256bde0f3e41a670e05fb478e",
+  "notes": "Очистка избранного, сохранение shuffle/repeat, сортировка треков (basic, mixed), удаление свайпа обложки",
+  "publishedAt": "2026-09-14T07:02:40Z"
 }
