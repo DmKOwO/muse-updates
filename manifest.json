@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v20/muse.apk",
-  "sha256": "e270601492be0898cafb847cede7c2a902d4b838cc7af75bfda686f53d95d76e",
-  "notes": "Реальная облачная синхронизация друзей, двусторонние связи, полные метаданные общих плейлистов и фикс RLS",
-  "publishedAt": "2026-09-14T09:13:11Z"
+  "versionCode": 21,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v21/muse.apk",
+  "sha256": "7b16ada5aa0cc8e095f0cbc57b74dded554f422d3ba73526fedadb129dbe8fb9",
+  "notes": "Подтверждена реальная облачная синхронизация Supabase для MUSE-648871, MUSE-463550 и MUSE-PL-13011",
+  "publishedAt": "2026-09-14T09:25:20Z"
 }
