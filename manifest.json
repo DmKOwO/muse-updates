@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v18/muse.apk",
-  "sha256": "8e65fe8c379c19b55dd0e9fb116e357553c97940c1371dfdf61751717d48a2df",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v19/muse.apk",
+  "sha256": "3f815ea50080c9fe6d30d1713d82138d2b6676618467bd8b207a5a409701bb8a",
   "notes": "Real social sync: friends, shared playlists, Blend",
-  "publishedAt": "2026-09-14T08:43:38Z"
+  "publishedAt": "2026-09-14T08:49:15Z"
 }
