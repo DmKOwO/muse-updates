@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v17/muse.apk",
-  "sha256": "d758f633f4195594c7b1b15ce15f2ee961d4008afb024080639266f43b042beb",
-  "notes": "Быстрое добавление в плейлисты (кнопка в плеере, умная шторка, свайп треков), друзья, кастомный никнейм и парный Blend плейлист",
-  "publishedAt": "2026-09-14T07:44:59Z"
+  "versionCode": 18,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v18/muse.apk",
+  "sha256": "8e65fe8c379c19b55dd0e9fb116e357553c97940c1371dfdf61751717d48a2df",
+  "notes": "Real social sync: friends, shared playlists, Blend",
+  "publishedAt": "2026-09-14T08:43:38Z"
 }
