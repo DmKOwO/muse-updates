@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 29,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v29/muse-1.0.0+29.apk",
-  "sha256": "5efc3bb2614b2be07b5423a814196ff177c339a39e456f4b0e83e11207a0ab01",
-  "notes": "Режимы наружу: muse://mix/radio и favorites через MPRIS OpenUri; кнопки Radio/Favorites в попапе (только для muse); хоткеи SUPER+ALT+R/F; фикс responsive Now Playing",
-  "publishedAt": "2026-09-15T13:14:46Z"
+  "versionCode": 30,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v30/muse-1.0.0+30.apk",
+  "sha256": "00b945e7a2b22dc16d26877e4eeccfebcb34b8591cbdebc8dce9fe63f834b0eb",
+  "notes": "Хоткей скрытия в фон SUPER+ALT+M через muse://hide (парк окна, музыка и MPRIS живут)",
+  "publishedAt": "2026-09-15T14:33:59Z"
 }
