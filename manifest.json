@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v30/muse-1.0.0+30.apk",
-  "sha256": "00b945e7a2b22dc16d26877e4eeccfebcb34b8591cbdebc8dce9fe63f834b0eb",
-  "notes": "Хоткей скрытия в фон SUPER+ALT+M через muse://hide (парк окна, музыка и MPRIS живут)",
-  "publishedAt": "2026-09-15T14:33:59Z"
+  "versionCode": 31,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v31/muse-1.0.0+31.apk",
+  "sha256": "5274484c5e73096a03a411d5ed53822b83d27435e2d2668177ad7a11d89f18b3",
+  "notes": "MPRIS heartbeat: переанонс имени каждые 60с — бар сам подхватывает плеер (лечит слепоту шелла)",
+  "publishedAt": "2026-09-15T15:23:19Z"
 }
