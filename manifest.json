@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v26/muse-1.0.0+26.apk",
-  "sha256": "36ea5c63fc73d8884b0da28cd394bb4152b181e912af3896980f700c3beae5b0",
-  "notes": "Друзья 4-м табом (1 тап); MPRIS: дроссель PropertiesChanged для шеллов + коректный шторм-фикс; хоткеи muse в Hyprland (док); тесты v26",
-  "publishedAt": "2026-09-15T10:03:43Z"
+  "versionCode": 27,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v27/muse-1.0.0+27.apk",
+  "sha256": "60df47cc1b3f2dd943c471cfa0932255faf57467b478c45e94ffa54ce06d4ee6",
+  "notes": "MPRIS-фикс невидимости в шеллах: sanitize trackid (дефис ронял шину), вежливый захват имени без steal, дроссель сигналов; фикс мозаичной иконки трея (абсолютный путь + asset в бандле)",
+  "publishedAt": "2026-09-15T10:37:06Z"
 }
