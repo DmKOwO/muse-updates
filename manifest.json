@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v31/muse-1.0.0+31.apk",
-  "sha256": "5274484c5e73096a03a411d5ed53822b83d27435e2d2668177ad7a11d89f18b3",
-  "notes": "MPRIS heartbeat: переанонс имени каждые 60с — бар сам подхватывает плеер (лечит слепоту шелла)",
-  "publishedAt": "2026-09-15T15:23:19Z"
+  "versionCode": 32,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v32/muse-1.0.0+32.apk",
+  "sha256": "7a40437e9774b2d205ee1104e7288ded6ddf2cb3e72f0e07ee1886f7eb409f60",
+  "notes": "Mix filter v2: popup Mood/Recognizable/Language (1 с ряда), 5 вайбов, IN-блок, affinity больше не давит муд",
+  "publishedAt": "2026-09-15T15:39:01Z"
 }
