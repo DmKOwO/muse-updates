@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 24,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v24/muse-1.0.0+24.apk",
-  "sha256": "8b8f86fe63563bd304741de5d7958ae1057087e99e33cfc7ac890682425691b1",
-  "notes": "Fix Android updater: prevent stale downloads, unique versioned APKs, cache buster, and modern install intent",
-  "publishedAt": "2026-09-14T10:19:50Z"
+  "versionCode": 25,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v25/muse-1.0.0+25.apk",
+  "sha256": "2bf43915424b2061b8481199f7e97e5c43139ab99465b9c31dac9a3a2aa8a33a",
+  "notes": "Чат 1-1 с отправкой музыки + Поделиться в плеере; аккаунт: 1 почта=ник+код и синк сразу при входе; авто-синк совместных плейлистов; история в Настройки без лимита 50; фикс виснущего next-трека (watchdog+retry)",
+  "publishedAt": "2026-09-15T08:56:57Z"
 }
