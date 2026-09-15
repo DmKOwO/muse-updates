@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 28,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v28/muse-1.0.0+28.apk",
-  "sha256": "77a6d7e251d63272ac09a194b97558c3eaa3248a343fcf0c4dd94bbd46f1ba8f",
-  "notes": "Фон Linux: --background без окна (раннер), парк UI, диета визуализатора; SUPER+M/бар сами поднимают muse; Now Playing responsive (max 680/cover 440); CPU фона ~1.5%",
-  "publishedAt": "2026-09-15T13:00:58Z"
+  "versionCode": 29,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v29/muse-1.0.0+29.apk",
+  "sha256": "5efc3bb2614b2be07b5423a814196ff177c339a39e456f4b0e83e11207a0ab01",
+  "notes": "Режимы наружу: muse://mix/radio и favorites через MPRIS OpenUri; кнопки Radio/Favorites в попапе (только для muse); хоткеи SUPER+ALT+R/F; фикс responsive Now Playing",
+  "publishedAt": "2026-09-15T13:14:46Z"
 }
