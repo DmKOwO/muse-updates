@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 32,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v32/muse-1.0.0+32.apk",
-  "sha256": "7a40437e9774b2d205ee1104e7288ded6ddf2cb3e72f0e07ee1886f7eb409f60",
-  "notes": "Mix filter v2: popup Mood/Recognizable/Language (1 с ряда), 5 вайбов, IN-блок, affinity больше не давит муд",
-  "publishedAt": "2026-09-15T15:39:01Z"
+  "versionCode": 33,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v33/muse-1.0.0+33.apk",
+  "sha256": "858108ba8c6f62a5efe8ae5be002a9beda0267129343aaa21d92ca03de70fc24",
+  "notes": "Точные вайбы: Last.fm теги вместо гадания по названию + кнопка 'Не тот вайб' с синком на всех",
+  "publishedAt": "2026-09-15T16:01:16Z"
 }
