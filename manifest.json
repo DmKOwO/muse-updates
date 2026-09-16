@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 38,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v38/muse-1.0.0+38.apk",
-  "sha256": "9d7ac49bfb2a75e7580f2366354cd642e2b9912f44ff4c7cd51ccd4fc2b6aa80",
-  "notes": "Правка языка у трека (не инструментал и т.д.) с персистом и синком + честные Known/Unknown/Language + Done играет сразу + кап 6 минут",
-  "publishedAt": "2026-09-16T11:22:17Z"
+  "versionCode": 39,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v39/muse-1.0.0+39.apk",
+  "sha256": "0b7f40c8ad2511aaeffaf55c472d1fed6d16ab9dbd382d1b2047f22508f2932d",
+  "notes": "Фикс избранного (фон не затирает лайки) + вилка длительности 1:30–6:00 против огрызков и часовых",
+  "publishedAt": "2026-09-16T12:25:18Z"
 }
