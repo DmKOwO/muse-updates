@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v34/muse-1.0.0+34.apk",
-  "sha256": "ad94a5787e4eb745d7b992c5ff0eadde97c242543aba45d3c9740f5afa111c3d",
-  "notes": "Фоновый бэкфилл тегов: artist-уровень покрывает всех сразу, приоритеты fav/top, прогресс и кнопка в настройках",
-  "publishedAt": "2026-09-15T16:09:57Z"
+  "versionCode": 35,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v35/muse-1.0.0+35.apk",
+  "sha256": "2072c76ad94d0d6bffcfbf11ecec11f995b33ab771b7de99df0c2eedb79401de",
+  "notes": "Строгий анти-повтор: ни id, ни названия не предлагаются дважды (память suggested_tracks + общий song_key)",
+  "publishedAt": "2026-09-16T08:57:09Z"
 }
