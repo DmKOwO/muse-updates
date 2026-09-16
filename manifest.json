@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 36,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v36/muse-1.0.0+36.apk",
-  "sha256": "896e884a7a3f5f335a8018d228c4a0e807c9ec0b62997a5f623bbabf9deee32c",
-  "notes": "Phonk governor: стена фонка запрещена (макс 2 на микс, 6 для Energized) + штраф в ранжировании везде",
-  "publishedAt": "2026-09-16T09:04:22Z"
+  "versionCode": 37,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v37/muse-1.0.0+37.apk",
+  "sha256": "d334e90fd6396e08991fe4902660b8c9d98f3c167e94aae5f6ffd4ab8fff373c",
+  "notes": "Рабочие Recognizable/Language: Known из библиотеки, Unknown включает свежак, RU-якоря, Done играет сразу, правка вайба с мульти-включением, кап 6 минут",
+  "publishedAt": "2026-09-16T11:00:35Z"
 }
