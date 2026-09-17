@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v40/muse-1.0.0+40.apk",
-  "sha256": "7fb5533c42240e5ac7fe57ca56c6d34852823e9c0442d7cec760a518827974a8",
-  "notes": "Поиск по библиотеке YT Music: songs-фильтр + отсев live/cover/karaoke",
-  "publishedAt": "2026-09-17T06:08:48Z"
+  "versionCode": 41,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v41/muse-1.0.0+41.apk",
+  "sha256": "c0ee238c40b96e1f5adb18342fbc5efbf0e892dfdf3c7ec12e24590ebe91b9f5",
+  "notes": "Аудио-фокус (duck/пауза/resume, GAIN на play), пауза при выдернутых наушниках, пермишены музыки и уведомлений с баннерами, смарт-разделы Любимое/Недавнее, экспорт m3u8, дедуп префетча, EQ/фейд под тестами, safe-area навигации. Проверено: 226 тестов, эмулятор со скриншотами.",
+  "publishedAt": "2026-09-17T08:35:10Z"
 }
