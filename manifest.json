@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 42,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v42/muse-1.0.0+42.apk",
-  "sha256": "cdaa6f37e187934c472a1691fbcdfd9c631c8381dc85b528398068441d363fbc",
-  "notes": "Убран широкий режим: один layout на любую ширину (бесила боковая панель в фулскрине); удалён now_playing_panel",
-  "publishedAt": "2026-09-17T08:44:11Z"
+  "versionCode": 43,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v43/muse-1.0.0+43.apk",
+  "sha256": "7923f4a61dcfeaa9ef4cfec5adbae4e89dce2c719fa9f96f5071b3f5a9c7cbd3",
+  "notes": "Аудио-фокус с duck и паузой, пауза при выдернутых наушниках, пермишены музыки и уведомлений, смарт-разделы Любимое и Недавнее, дедуп префетча, EQ и тексты под тестами, safe-area навигации, тёмный сплеш. Проверено: 244 теста, эмулятор.",
+  "publishedAt": "2026-09-17T12:59:26Z"
 }
