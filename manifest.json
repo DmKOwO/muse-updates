@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 43,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v43/muse-1.0.0+43.apk",
-  "sha256": "7923f4a61dcfeaa9ef4cfec5adbae4e89dce2c719fa9f96f5071b3f5a9c7cbd3",
-  "notes": "Аудио-фокус с duck и паузой, пауза при выдернутых наушниках, пермишены музыки и уведомлений, смарт-разделы Любимое и Недавнее, дедуп префетча, EQ и тексты под тестами, safe-area навигации, тёмный сплеш. Проверено: 244 теста, эмулятор.",
-  "publishedAt": "2026-09-17T12:59:26Z"
+  "versionCode": 44,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v44/muse-1.0.0+44.apk",
+  "sha256": "1113f3a246bc5b8dc9b08c42eebc5fc69d5f795f455beb42582073c90428334f",
+  "notes": "Треки 1-2 не дублируются (голова вычтена из тела), докачка в 2 прохода, тост избранного гаснет",
+  "publishedAt": "2026-09-18T10:31:19Z"
 }
