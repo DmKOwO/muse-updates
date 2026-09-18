@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 46,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v46/muse-1.0.0+46.apk",
-  "sha256": "a59d956d0ba44af1c449c5e7426cfd250c455e853d7fcb752987881881fc021e",
-  "notes": "Тап по исполнителю открывает поиск с его ником (все экраны)",
-  "publishedAt": "2026-09-18T12:10:59Z"
+  "versionCode": 47,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v47/muse-1.0.0+47.apk",
+  "sha256": "bb22925fa54228e7736a6b1be8e14ae110451a64af5afa2bc4e605acf9021ad6",
+  "notes": "Хотфикс: падение при включении музыки на Android 8–9 (setWillPauseWhenDucked требует API 29), фокус больше никогда не роняет плеер. Починена пропавшая иконка (рекурсия в adaptive XML).",
+  "publishedAt": "2026-09-18T12:13:55Z"
 }
