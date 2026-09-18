@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 50,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v50/muse-1.0.0+50.apk",
-  "sha256": "6ffa3de20097f4bcb0e27251a5b020ee9a5b5e9989dde39cf4ef1df4190ba0b2",
-  "notes": "Лайк из шторки и BT (кастомный экшен), экран статистики за 30 дней, YouTube-ссылки в импорте. Логгер крашей.",
-  "publishedAt": "2026-09-18T17:29:13Z"
+  "versionCode": 51,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v51/muse-1.0.0+51.apk",
+  "sha256": "a19116f4904941eec2736b4e3a92801270949fb35ed85f742912c4d9a554feff",
+  "notes": "Визуальная пачка: обложки больше и легче, бренд-сплеш, мини-плеер 64, скелетоны в поиске, Monet-выключатель, градиент смарт-карт. Проверено: 315 тестов, эмулятор.",
+  "publishedAt": "2026-09-18T19:08:47Z"
 }
