@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v54/muse-1.0.0+54.apk",
-  "sha256": "5c965742f637c7e5b8dd423ff55c022c48522ff29af59d994fd2841051ffc503",
-  "notes": "Караоке в 2 строки только для синхронных текстов, стопор каскада автоскипов, лог действий с согласием. Снэкбар при удалении из избранного убран. Проверено: 329 тестов, эмулятор.",
-  "publishedAt": "2026-09-21T06:49:53Z"
+  "versionCode": 55,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v55/muse-1.0.0+55.apk",
+  "sha256": "63d28bfc6f524e766e17dc2961ca50cf843dacd33d8c5b49917d20da1db2b48a",
+  "notes": "Синк честно сообщает о недостающих таблицах (баннер-лекарство), OTA-уведомление гаснет, десктоп авточекает обновления",
+  "publishedAt": "2026-09-21T11:03:22Z"
 }
