@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v52/muse-1.0.0+52.apk",
-  "sha256": "852ea79f5711b116e9d0f4bf1b58698e49378af504495d74a82d030403e9ff42",
-  "notes": "Обложки больше: мини-плеер и тренды 80px, бренд-сплеш, фикс overflow пресета. Проверено: 315 тестов, эмулятор.",
-  "publishedAt": "2026-09-19T01:50:30Z"
+  "versionCode": 53,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v53/muse-1.0.0+53.apk",
+  "sha256": "40c22ef5909529c5f0ba670e59aae9a18c1fd7779a2a1c582510e08d8ef69dc7",
+  "notes": "Караоке-строка под обложкой, кольцо слип-таймера, бейджи офлайн. Снэкбар при удалении из избранного убран.",
+  "publishedAt": "2026-09-21T04:43:45Z"
 }
