@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 53,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v53/muse-1.0.0+53.apk",
-  "sha256": "40c22ef5909529c5f0ba670e59aae9a18c1fd7779a2a1c582510e08d8ef69dc7",
-  "notes": "Караоке-строка под обложкой, кольцо слип-таймера, бейджи офлайн. Снэкбар при удалении из избранного убран.",
-  "publishedAt": "2026-09-21T04:43:45Z"
+  "versionCode": 54,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v54/muse-1.0.0+54.apk",
+  "sha256": "5c965742f637c7e5b8dd423ff55c022c48522ff29af59d994fd2841051ffc503",
+  "notes": "Караоке в 2 строки только для синхронных текстов, стопор каскада автоскипов, лог действий с согласием. Снэкбар при удалении из избранного убран. Проверено: 329 тестов, эмулятор.",
+  "publishedAt": "2026-09-21T06:49:53Z"
 }
