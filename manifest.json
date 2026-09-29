@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "versionCode": 56,
-  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v56/muse-1.0.0+56.apk",
-  "sha256": "7f7276b83d5af31eb95bc8d7292102d797deaf048e691f882766462c4e4c1a46",
-  "notes": "Рекомендации: фонк вырезан полностью, авто-заливки с подписью канала убраны из миксов, треки 1-2 всегда разных артистов. Плашка при лайке убрана. В Настройках появился блок-лист жанров",
-  "publishedAt": "2026-09-29T10:18:19Z"
+  "versionCode": 57,
+  "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v57/muse-1.0.0+57.apk",
+  "sha256": "3557cd3ec33cd6deaacb90aeb9b269758867d851cc25b9657ff9493786d4c260",
+  "notes": "Кальяный рэп вырезан: 15 артистов целиком (Konfuz, Bahh Tee, Artik and Asti, The Limba, MACAN, Santiz и др) и 76 конкретных треков (HammAli and Navai, Jony, Miyagi, Jah Khalib, Elman, Andro, Xcho, Janaga). Блокировка по артисту и по песне, каждый пункт снимается в Настройках",
+  "publishedAt": "2026-09-29T10:58:43Z"
 }
