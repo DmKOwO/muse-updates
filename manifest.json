@@ -3,6 +3,6 @@
   "versionCode": 57,
   "apkUrl": "https://github.com/DmKOwO/muse-updates/releases/download/v57/muse-1.0.0+57.apk",
   "sha256": "3557cd3ec33cd6deaacb90aeb9b269758867d851cc25b9657ff9493786d4c260",
-  "notes": "Кальяный рэп вырезан: 15 артистов целиком (Konfuz, Bahh Tee, Artik and Asti, The Limba, MACAN, Santiz и др) и 76 конкретных треков (HammAli and Navai, Jony, Miyagi, Jah Khalib, Elman, Andro, Xcho, Janaga). Блокировка по артисту и по песне, каждый пункт снимается в Настройках",
+  "notes": "Расширены настраиваемые исключения исполнителей и треков в рекомендациях. Каждое правило можно отключить в настройках.",
   "publishedAt": "2026-09-29T10:58:43Z"
 }
